@@ -114,5 +114,6 @@ Sales_Data.xlsx – Simulated transactional sales data
 
 Employee_Info.csv – Simulated employee dataset
 
-##
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/ecc18b31-19a6-4b4f-b6ea-5f1444bd3661)
 
